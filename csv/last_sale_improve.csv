@@ -1,0 +1,601 @@
+NAME,STATE_NAME,STATE_FIPS,CNTY_FIPS,FIPS
+Stevens,Washington,53,065,53065
+Okanogan,Washington,53,047,53047
+Flathead,Montana,30,029,30029
+Bonner,Idaho,16,017,16017
+Ward,North Dakota,38,101,38101
+St. Louis,Minnesota,27,137,27137
+Beltrami,Minnesota,27,007,27007
+Chelan,Washington,53,007,53007
+Clallam,Washington,53,009,53009
+Island,Washington,53,029,53029
+Grand Forks,North Dakota,38,035,38035
+Polk,Minnesota,27,119,27119
+Kootenai,Idaho,16,055,16055
+Lewis and Clark,Montana,30,049,30049
+Itasca,Minnesota,27,061,27061
+Cass,Minnesota,27,021,27021
+Burleigh,North Dakota,38,015,38015
+Becker,Minnesota,27,005,27005
+Stark,North Dakota,38,089,38089
+Morton,North Dakota,38,059,38059
+Otter Tail,Minnesota,27,111,27111
+Ravalli,Montana,30,081,30081
+Nez Perce,Idaho,16,069,16069
+Walla Walla,Washington,53,071,53071
+Pine,Minnesota,27,115,27115
+Cowlitz,Washington,53,015,53015
+Morrison,Minnesota,27,097,27097
+Gallatin,Montana,30,031,30031
+Burnett,Wisconsin,55,013,55013
+Kanabec,Minnesota,27,065,27065
+Isanti,Minnesota,27,059,27059
+Clackamas,Oregon,41,005,41005
+Wright,Minnesota,27,171,27171
+Kandiyohi,Minnesota,27,067,27067
+Washington,Minnesota,27,163,27163
+Hennepin,Minnesota,27,053,27053
+Valley,Idaho,16,085,16085
+Codington,South Dakota,46,029,46029
+Franklin,New York,36,033,36033
+Carver,Minnesota,27,019,27019
+Dakota,Minnesota,27,037,27037
+Goodhue,Minnesota,27,049,27049
+Wood,Wisconsin,55,141,55141
+Lyon,Minnesota,27,083,27083
+Le Sueur,Minnesota,27,079,27079
+Pennington,South Dakota,46,103,46103
+Brown,Minnesota,27,015,27015
+Nicollet,Minnesota,27,103,27103
+Blue Earth,Minnesota,27,013,27013
+Waseca,Minnesota,27,161,27161
+Dodge,Minnesota,27,039,27039
+Olmsted,Minnesota,27,109,27109
+Winona,Minnesota,27,169,27169
+Blaine,Idaho,16,013,16013
+Rutland,Vermont,50,021,50021
+Faribault,Minnesota,27,043,27043
+Freeborn,Minnesota,27,047,27047
+Jackson,Minnesota,27,063,27063
+Martin,Minnesota,27,091,27091
+Houston,Minnesota,27,055,27055
+Mower,Minnesota,27,099,27099
+Fillmore,Minnesota,27,045,27045
+Davison,South Dakota,46,035,46035
+Washington,New York,36,115,36115
+Ada,Idaho,16,001,16001
+Klamath,Oregon,41,035,41035
+Kossuth,Iowa,19,109,19109
+Lyon,Iowa,19,119,19119
+Bannock,Idaho,16,005,16005
+Rensselaer,New York,36,083,36083
+Schenectady,New York,36,093,36093
+Twin Falls,Idaho,16,083,16083
+Otsego,New York,36,077,36077
+Knox,Nebraska,31,107,31107
+Schoharie,New York,36,095,36095
+Buchanan,Iowa,19,019,19019
+Benton,Iowa,19,011,19011
+Monona,Iowa,19,133,19133
+Marshall,Iowa,19,127,19127
+Ulster,New York,36,111,36111
+Madison,Nebraska,31,119,31119
+Sullivan,New York,36,105,36105
+Box Elder,Utah,49,003,49003
+Jasper,Iowa,19,099,19099
+Poweshiek,Iowa,19,157,19157
+Dallas,Iowa,19,049,19049
+Johnson,Iowa,19,103,19103
+Dodge,Nebraska,31,053,31053
+Platte,Nebraska,31,141,31141
+Will,Illinois,17,197,17197
+Kendall,Illinois,17,093,17093
+Lake,Indiana,18,089,18089
+La Salle,Illinois,17,099,17099
+Orange,New York,36,071,36071
+Venango,Pennsylvania,42,121,42121
+Forest,Pennsylvania,42,053,42053
+Muscatine,Iowa,19,139,19139
+Uinta,Wyoming,56,041,56041
+Putnam,New York,36,079,36079
+Warren,Iowa,19,181,19181
+Trumbull,Ohio,39,155,39155
+Clinton,Pennsylvania,42,035,42035
+Clarion,Pennsylvania,42,031,42031
+Douglas,Nebraska,31,055,31055
+Keith,Nebraska,31,101,31101
+Jefferson,Pennsylvania,42,065,42065
+Westchester,New York,36,119,36119
+Rockland,New York,36,087,36087
+Kankakee,Illinois,17,091,17091
+Clearfield,Pennsylvania,42,033,42033
+Monroe,Pennsylvania,42,089,42089
+Seneca,Ohio,39,147,39147
+Armstrong,Pennsylvania,42,005,42005
+Montour,Pennsylvania,42,093,42093
+Putnam,Ohio,39,137,39137
+Carbon,Pennsylvania,42,025,42025
+Lawrence,Pennsylvania,42,073,42073
+Bergen,New Jersey,34,003,34003
+Livingston,Illinois,17,105,17105
+Morris,New Jersey,34,027,34027
+Dawson,Nebraska,31,047,31047
+Iroquois,Illinois,17,075,17075
+Logan,Colorado,08,075,08075
+Routt,Colorado,08,107,08107
+Crawford,Ohio,39,033,39033
+Wyandot,Ohio,39,175,39175
+Schuylkill,Pennsylvania,42,107,42107
+Bronx,New York,36,005,36005
+Nassau,New York,36,059,36059
+Essex,New Jersey,34,013,34013
+New York,New York,36,061,36061
+Uintah,Utah,49,047,49047
+Beaver,Pennsylvania,42,007,42007
+Mifflin,Pennsylvania,42,087,42087
+Hudson,New Jersey,34,017,34017
+Hardin,Ohio,39,065,39065
+Queens,New York,36,081,36081
+Otoe,Nebraska,31,131,31131
+Suffolk,New York,36,103,36103
+McLean,Illinois,17,113,17113
+Somerset,New Jersey,34,035,34035
+Kings,New York,36,047,36047
+Cambria,Pennsylvania,42,021,42021
+Morrow,Ohio,39,117,39117
+Marion,Ohio,39,101,39101
+Richmond,New York,36,085,36085
+Perry,Pennsylvania,42,099,42099
+Middlesex,New Jersey,34,023,34023
+Jefferson,Ohio,39,081,39081
+Harrison,Missouri,29,081,29081
+Lebanon,Pennsylvania,42,075,42075
+Logan,Ohio,39,091,39091
+Gage,Nebraska,31,067,31067
+Vermilion,Illinois,17,183,17183
+Grand,Colorado,08,049,08049
+Yuma,Colorado,08,125,08125
+Mercer,New Jersey,34,021,34021
+Delaware,Indiana,18,035,18035
+Logan,Illinois,17,107,17107
+Cumberland,Pennsylvania,42,041,42041
+York,Pennsylvania,42,133,42133
+Burlington,New Jersey,34,005,34005
+Belmont,Ohio,39,013,39013
+Fulton,Pennsylvania,42,057,42057
+Adams,Pennsylvania,42,001,42001
+Macon,Illinois,17,115,17115
+Greene,Pennsylvania,42,059,42059
+Camden,New Jersey,34,007,34007
+Sangamon,Illinois,17,167,17167
+Marion,Indiana,18,097,18097
+Hendricks,Indiana,18,063,18063
+Perry,Ohio,39,127,39127
+Montgomery,Ohio,39,113,39113
+Summit,Colorado,08,117,08117
+Gloucester,New Jersey,34,015,34015
+Christian,Illinois,17,021,17021
+Buchanan,Missouri,29,021,29021
+Atlantic,New Jersey,34,001,34001
+Allegany,Maryland,24,001,24001
+Coles,Illinois,17,029,17029
+Shelby,Illinois,17,173,17173
+Hocking,Ohio,39,073,39073
+Randolph,Missouri,29,175,29175
+Pike,Missouri,29,163,29163
+Cumberland,New Jersey,34,011,34011
+Riley,Kansas,20,161,20161
+Montgomery,Illinois,17,135,17135
+Leavenworth,Kansas,20,103,20103
+Highland,Ohio,39,071,39071
+Kent,Delaware,10,001,10001
+Cape May,New Jersey,34,009,34009
+Lafayette,Missouri,29,107,29107
+Anne Arundel,Maryland,24,003,24003
+Shawnee,Kansas,20,177,20177
+Delta,Colorado,08,029,08029
+Jackson,Ohio,39,079,39079
+Meigs,Ohio,39,105,39105
+Ellis,Kansas,20,051,20051
+Callaway,Missouri,29,027,29027
+Johnson,Kansas,20,091,20091
+Sevier,Utah,49,041,49041
+Gallia,Ohio,39,053,39053
+Fauquier,Virginia,51,061,51061
+Madison,Illinois,17,119,17119
+Saline,Kansas,20,169,20169
+Sussex,Delaware,10,005,10005
+Pettis,Missouri,29,159,29159
+Prince William,Virginia,51,153,51153
+Johnson,Missouri,29,101,29101
+St. Louis,Missouri,29,189,29189
+Rockingham,Virginia,51,165,51165
+Lawrence,Ohio,39,087,39087
+Page,Virginia,51,139,51139
+Lyon,Kansas,20,111,20111
+Gasconade,Missouri,29,073,29073
+Franklin,Missouri,29,071,29071
+Montrose,Colorado,08,085,08085
+Henry,Kentucky,21,103,21103
+Harrison,Kentucky,21,097,21097
+Henry,Missouri,29,083,29083
+Wicomico,Maryland,24,045,24045
+Benton,Missouri,29,015,29015
+Fleming,Kentucky,21,069,21069
+Washington,Illinois,17,189,17189
+Carter,Kentucky,21,043,21043
+Boyd,Kentucky,21,019,21019
+Jefferson,Missouri,29,099,29099
+Worcester,Maryland,24,047,24047
+Jefferson,Kentucky,21,111,21111
+Spotsylvania,Virginia,51,177,51177
+Bourbon,Kentucky,21,017,21017
+Albemarle,Virginia,51,003,51003
+Lawrence,Kentucky,21,127,21127
+Prowers,Colorado,08,099,08099
+Otero,Colorado,08,089,08089
+Finney,Kansas,20,055,20055
+Reno,Kansas,20,155,20155
+Iron,Utah,49,021,49021
+Bullitt,Kentucky,21,029,21029
+Clark,Kentucky,21,049,21049
+Charlottesville,Virginia,51,540,51540
+Vernon,Missouri,29,217,29217
+Allen,Kansas,20,001,20001
+Hardin,Kentucky,21,093,21093
+Huerfano,Colorado,08,055,08055
+Johnson,Kentucky,21,115,21115
+Jessamine,Kentucky,21,113,21113
+Jackson,Illinois,17,077,17077
+Ford,Kansas,20,057,20057
+Sedgwick,Kansas,20,173,20173
+Washington,Kentucky,21,229,21229
+Laclede,Missouri,29,105,29105
+Williamson,Illinois,17,199,17199
+Lancaster,Virginia,51,103,51103
+Amherst,Virginia,51,009,51009
+Dent,Missouri,29,065,29065
+Middlesex,Virginia,51,119,51119
+Pike,Kentucky,21,195,21195
+Powhatan,Virginia,51,145,51145
+Crawford,Kansas,20,037,20037
+Webster,Kentucky,21,233,21233
+Costilla,Colorado,08,023,08023
+Bollinger,Missouri,29,017,29017
+Cape Girardeau,Missouri,29,031,29031
+Gloucester,Virginia,51,073,51073
+Jackson,Kentucky,21,109,21109
+Hopkins,Kentucky,21,107,21107
+Appomattox,Virginia,51,011,51011
+Northampton,Virginia,51,131,51131
+Casey,Kentucky,21,045,21045
+Rockcastle,Kentucky,21,203,21203
+James City,Virginia,51,095,51095
+Archuleta,Colorado,08,007,08007
+Muhlenberg,Kentucky,21,177,21177
+Roanoke,Virginia,51,161,51161
+Butler,Kentucky,21,031,21031
+Montgomery,Kansas,20,125,20125
+Labette,Kansas,20,099,20099
+York,Virginia,51,199,51199
+Pulaski,Kentucky,21,199,21199
+Laurel,Kentucky,21,125,21125
+Roanoke City,Virginia,51,770,51770
+Dinwiddie,Virginia,51,053,51053
+Letcher,Kentucky,21,133,21133
+Scott,Missouri,29,201,29201
+Franklin,Virginia,51,067,51067
+McCracken,Kentucky,21,145,21145
+Russell,Kentucky,21,207,21207
+Barren,Kentucky,21,009,21009
+Floyd,Virginia,51,063,51063
+Todd,Kentucky,21,219,21219
+Logan,Kentucky,21,141,21141
+Halifax,Virginia,51,083,51083
+Ottawa,Oklahoma,40,115,40115
+Osage,Oklahoma,40,113,40113
+Washington,Oklahoma,40,147,40147
+Wayne,Kentucky,21,231,21231
+Texas,Oklahoma,40,139,40139
+Stone,Missouri,29,209,29209
+Norfolk,Virginia,51,710,51710
+McCreary,Kentucky,21,147,21147
+Graves,Kentucky,21,083,21083
+Allen,Kentucky,21,003,21003
+Carroll,Virginia,51,035,51035
+Butler,Missouri,29,023,29023
+Suffolk,Virginia,51,800,51800
+Monroe,Kentucky,21,171,21171
+Taney,Missouri,29,213,29213
+Woodward,Oklahoma,40,153,40153
+Grayson,Virginia,51,077,51077
+Delaware,Oklahoma,40,041,40041
+Noble,Oklahoma,40,103,40103
+Rogers,Oklahoma,40,131,40131
+Garfield,Oklahoma,40,047,40047
+Ashe,North Carolina,37,009,37009
+Alleghany,North Carolina,37,005,37005
+Pawnee,Oklahoma,40,117,40117
+Hertford,North Carolina,37,091,37091
+Warren,North Carolina,37,185,37185
+Person,North Carolina,37,145,37145
+Vance,North Carolina,37,181,37181
+Mayes,Oklahoma,40,097,40097
+Halifax,North Carolina,37,083,37083
+Pasquotank,North Carolina,37,139,37139
+Clay,Arkansas,05,021,05021
+Baxter,Arkansas,05,005,05005
+Sharp,Arkansas,05,135,05135
+Benton,Arkansas,05,007,05007
+Marion,Arkansas,05,089,05089
+Wilkes,North Carolina,37,193,37193
+Greene,Arkansas,05,055,05055
+Franklin,North Carolina,37,069,37069
+Payne,Oklahoma,40,119,40119
+Orange,North Carolina,37,135,37135
+Knox,Tennessee,47,093,47093
+Cherokee,Oklahoma,40,021,40021
+Logan,Oklahoma,40,083,40083
+Searcy,Arkansas,05,129,05129
+Rutherford,Tennessee,47,149,47149
+Moore,Texas,48,341,48341
+Iredell,North Carolina,37,097,37097
+Davidson,North Carolina,37,057,37057
+Roger Mills,Oklahoma,40,129,40129
+Craighead,Arkansas,05,031,05031
+Lincoln,Oklahoma,40,081,40081
+Wilson,North Carolina,37,195,37195
+Johnston,North Carolina,37,101,37101
+Custer,Oklahoma,40,039,40039
+Van Buren,Arkansas,05,141,05141
+Haywood,North Carolina,37,087,37087
+Beaufort,North Carolina,37,013,37013
+Pope,Arkansas,05,115,05115
+Oklahoma,Oklahoma,40,109,40109
+Poinsett,Arkansas,05,111,05111
+Sequoyah,Oklahoma,40,135,40135
+Lee,North Carolina,37,105,37105
+Wayne,North Carolina,37,191,37191
+McIntosh,Oklahoma,40,091,40091
+Caddo,Oklahoma,40,015,40015
+White,Arkansas,05,145,05145
+Jackson,North Carolina,37,099,37099
+Stanly,North Carolina,37,167,37167
+Washita,Oklahoma,40,149,40149
+Haskell,Oklahoma,40,061,40061
+Seminole,Oklahoma,40,133,40133
+Woodruff,Arkansas,05,147,05147
+Crittenden,Arkansas,05,035,05035
+Logan,Arkansas,05,083,05083
+Le Flore,Oklahoma,40,079,40079
+Grady,Oklahoma,40,051,40051
+Bradley,Tennessee,47,011,47011
+Pittsburg,Oklahoma,40,121,40121
+Cherokee,North Carolina,37,039,37039
+Bernalillo,New Mexico,35,001,35001
+Greenville,South Carolina,45,045,45045
+Hoke,North Carolina,37,093,37093
+Spartanburg,South Carolina,45,083,45083
+Kiowa,Oklahoma,40,075,40075
+Prairie,Arkansas,05,117,05117
+Lancaster,South Carolina,45,057,45057
+Lauderdale,Alabama,01,077,01077
+Limestone,Alabama,01,083,01083
+Monroe,Arkansas,05,095,05095
+Tippah,Mississippi,28,139,28139
+Whitfield,Georgia,13,313,13313
+Catoosa,Georgia,13,047,13047
+Dade,Georgia,13,083,13083
+Pontotoc,Oklahoma,40,123,40123
+Tunica,Mississippi,28,143,28143
+Garvin,Oklahoma,40,049,40049
+Saline,Arkansas,05,125,05125
+DeKalb,Alabama,01,049,01049
+Jackson,Oklahoma,40,065,40065
+Habersham,Georgia,13,137,13137
+Anderson,South Carolina,45,007,45007
+Chesterfield,South Carolina,45,025,45025
+Tate,Mississippi,28,137,28137
+Polk,Arkansas,05,113,05113
+Pushmataha,Oklahoma,40,127,40127
+Stephens,Oklahoma,40,137,40137
+Phillips,Arkansas,05,107,05107
+Gordon,Georgia,13,129,13129
+Arkansas,Arkansas,05,001,05001
+Panola,Mississippi,28,107,28107
+Coahoma,Mississippi,28,027,28027
+Darlington,South Carolina,45,031,45031
+Newberry,South Carolina,45,071,45071
+Carter,Oklahoma,40,019,40019
+McCurtain,Oklahoma,40,089,40089
+Columbus,North Carolina,37,047,37047
+Greenwood,South Carolina,45,047,45047
+New Hanover,North Carolina,37,129,37129
+Lincoln,New Mexico,35,027,35027
+Forsyth,Georgia,13,117,13117
+Winston,Alabama,01,133,01133
+Floyd,Texas,48,153,48153
+Florence,South Carolina,45,041,45041
+Madison,Georgia,13,195,13195
+Richland,South Carolina,45,079,45079
+Etowah,Alabama,01,055,01055
+Yalobusha,Mississippi,28,161,28161
+Marshall,Oklahoma,40,095,40095
+Gwinnett,Georgia,13,135,13135
+Bryan,Oklahoma,40,013,40013
+Choctaw,Oklahoma,40,023,40023
+Cobb,Georgia,13,067,13067
+Chaves,New Mexico,35,005,35005
+Paulding,Georgia,13,223,13223
+Hempstead,Arkansas,05,057,05057
+Sunflower,Mississippi,28,133,28133
+St. Clair,Alabama,01,115,01115
+Grayson,Texas,48,181,48181
+Lamar,Texas,48,277,48277
+Fayette,Alabama,01,057,01057
+Aiken,South Carolina,45,003,45003
+Jefferson,Alabama,01,073,01073
+Leflore,Mississippi,28,083,28083
+Calhoun,Arkansas,05,013,05013
+Georgetown,South Carolina,45,043,45043
+Greene,Georgia,13,133,13133
+Webster,Mississippi,28,155,28155
+Orangeburg,South Carolina,45,075,45075
+McDuffie,Georgia,13,189,13189
+Clayton,Georgia,13,063,13063
+Miller,Arkansas,05,091,05091
+Chicot,Arkansas,05,017,05017
+Shelby,Alabama,01,117,01117
+Pinal,Arizona,04,021,04021
+Columbia,Arkansas,05,027,05027
+Denton,Texas,48,121,48121
+Collin,Texas,48,085,48085
+Otero,New Mexico,35,035,35035
+Union,Arkansas,05,139,05139
+Holmes,Mississippi,28,051,28051
+Winston,Mississippi,28,159,28159
+Greene,Alabama,01,063,01063
+Allendale,South Carolina,45,005,45005
+Tallapoosa,Alabama,01,123,01123
+Chilton,Alabama,01,021,01021
+Screven,Georgia,13,251,13251
+Yazoo,Mississippi,28,163,28163
+Hampton,South Carolina,45,049,45049
+Charleston,South Carolina,45,019,45019
+Hale,Alabama,01,065,01065
+Parker,Texas,48,367,48367
+Tarrant,Texas,48,439,48439
+Harrison,Texas,48,203,48203
+Jasper,South Carolina,45,053,45053
+Lee,Alabama,01,081,01081
+Autauga,Alabama,01,001,01001
+Hinds,Mississippi,28,049,28049
+Ellis,Texas,48,139,48139
+Howard,Texas,48,227,48227
+Montgomery,Alabama,01,101,01101
+Lowndes,Alabama,01,085,01085
+Bullock,Alabama,01,011,01011
+Hill,Texas,48,217,48217
+Wilcox,Alabama,01,131,01131
+Beaufort,South Carolina,45,013,45013
+Ector,Texas,48,135,48135
+Brown,Texas,48,049,48049
+El Paso,Texas,48,141,48141
+Butler,Alabama,01,013,01013
+Wayne,Mississippi,28,153,28153
+McLennan,Texas,48,309,48309
+Chatham,Georgia,13,051,13051
+Ben Hill,Georgia,13,017,13017
+Henry,Alabama,01,067,01067
+Mills,Texas,48,333,48333
+Lincoln,Mississippi,28,085,28085
+Angelina,Texas,48,005,48005
+Early,Georgia,13,099,13099
+San Saba,Texas,48,411,48411
+Mitchell,Georgia,13,205,13205
+Wilkinson,Mississippi,28,157,28157
+Amite,Mississippi,28,005,28005
+Avoyelles,Louisiana,22,009,22009
+Colquitt,Georgia,13,071,13071
+Bell,Texas,48,027,48027
+Baldwin,Alabama,01,003,01003
+Escambia,Alabama,01,053,01053
+Polk,Texas,48,373,48373
+Seminole,Georgia,13,253,13253
+Thomas,Georgia,13,275,13275
+Lowndes,Georgia,13,185,13185
+Brazos,Texas,48,041,48041
+Williamson,Texas,48,491,48491
+San Jacinto,Texas,48,407,48407
+Beauregard,Louisiana,22,011,22011
+Washington,Florida,12,133,12133
+Nassau,Florida,12,089,12089
+St. Tammany,Louisiana,22,103,22103
+Livingston,Louisiana,22,063,22063
+Travis,Texas,48,453,48453
+Montgomery,Texas,48,339,48339
+Duval,Florida,12,031,12031
+Bastrop,Texas,48,021,48021
+Hays,Texas,48,209,48209
+Waller,Texas,48,473,48473
+Harris,Texas,48,201,48201
+Orleans,Louisiana,22,071,22071
+Caldwell,Texas,48,055,48055
+Alachua,Florida,12,001,12001
+Guadalupe,Texas,48,187,48187
+Fort Bend,Texas,48,157,48157
+Bexar,Texas,48,029,48029
+Lavaca,Texas,48,285,48285
+Uvalde,Texas,48,463,48463
+Brazoria,Texas,48,039,48039
+Wilson,Texas,48,493,48493
+Citrus,Florida,12,017,12017
+Seminole,Florida,12,117,12117
+Hernando,Florida,12,053,12053
+Brevard,Florida,12,009,12009
+Polk,Florida,12,105,12105
+Osceola,Florida,12,097,12097
+Webb,Texas,48,479,48479
+Pinellas,Florida,12,103,12103
+Hillsborough,Florida,12,057,12057
+Nueces,Texas,48,355,48355
+Manatee,Florida,12,081,12081
+Sarasota,Florida,12,115,12115
+Hidalgo,Texas,48,215,48215
+Collier,Florida,12,021,12021
+Cameron,Texas,48,061,48061
+Broward,Florida,12,011,12011
+Houghton,Michigan,26,061,26061
+Marquette,Michigan,26,103,26103
+Delta,Michigan,26,041,26041
+Cheboygan,Michigan,26,031,26031
+Charlevoix,Michigan,26,029,26029
+Alpena,Michigan,26,007,26007
+Antrim,Michigan,26,009,26009
+Otsego,Michigan,26,137,26137
+St. Lawrence,New York,36,089,36089
+Grand Traverse,Michigan,26,055,26055
+Benzie,Michigan,26,019,26019
+Waupaca,Wisconsin,55,135,55135
+Manistee,Michigan,26,101,26101
+Iosco,Michigan,26,069,26069
+Wexford,Michigan,26,165,26165
+Roscommon,Michigan,26,143,26143
+Jefferson,New York,36,045,36045
+Mason,Michigan,26,105,26105
+Gladwin,Michigan,26,051,26051
+Midland,Michigan,26,111,26111
+Oceana,Michigan,26,127,26127
+Oswego,New York,36,075,36075
+Sauk,Wisconsin,55,111,55111
+Oneida,New York,36,065,36065
+Montcalm,Michigan,26,117,26117
+Onondaga,New York,36,067,36067
+Ottawa,Michigan,26,139,26139
+Waukesha,Wisconsin,55,133,55133
+Milwaukee,Wisconsin,55,079,55079
+Erie,New York,36,029,36029
+Ontario,New York,36,069,36069
+Ingham,Michigan,26,065,26065
+Allegan,Michigan,26,005,26005
+Eaton,Michigan,26,045,26045
+Barry,Michigan,26,015,26015
+Tompkins,New York,36,109,36109
+Chautauqua,New York,36,013,36013
+Boone,Illinois,17,007,17007
+Kalamazoo,Michigan,26,077,26077
+Calhoun,Michigan,26,025,26025
+Berrien,Michigan,26,021,26021
+Carroll,Illinois,17,015,17015
+DeKalb,Illinois,17,037,17037
+Hillsdale,Michigan,26,059,26059
+Branch,Michigan,26,023,26023
+Tioga,Pennsylvania,42,117,42117
+Warren,Pennsylvania,42,123,42123
+Potter,Pennsylvania,42,105,42105
+Whiteside,Illinois,17,195,17195
+Lee,Illinois,17,103,17103
+Fairbanks North Star,Alaska,02,090,02090
+Juneau,Alaska,02,110,02110
+Maui,Hawaii,15,009,15009
+Hawaii,Hawaii,15,001,15001
